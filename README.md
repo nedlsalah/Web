@@ -4,7 +4,7 @@ Bilingual (English / Arabic) personal website for NEDLSALAH — Digital Marketin
 Web Developer & Designer. Static HTML/CSS/JS with **no build step required** to run, deploy or
 edit. Designed as a single homepage plus four articles, two legal pages and a custom 404.
 
-- **Live base URL (deployment target):** `https://nedlsalah.github.io/nwebsite/`
+- **Live base URL (deployment target):** `https://nedlsalah.github.io/web/`
 - **License:** Apache License 2.0 (see `LICENSE`)
 
 ---
