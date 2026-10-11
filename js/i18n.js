@@ -277,7 +277,7 @@
     aria_lang: 'EN / AR — switch language',
 
     /* ── Hero ── */
-    hero_lead: 'Digital Marketing Specialist and Web Developer with 7+ years of experience across agency, in-house, and freelance roles in the UAE. Skilled in running paid advertising campaigns on Meta Ads and Google Ads, building and maintaining WordPress websites and landing pages, and producing short-form video, photography, and graphic content end-to-end. Experienced in on-page SEO and early-stage Answer Engine Optimization (AEO) practices, with a track record of owning projects from client brief to delivery. Applies AI tools (ChatGPT, Claude) to speed up content ideation and copywriting while maintaining brand voice consistency.',
+    hero_lead: 'Digital Marketing Specialist and Web Developer with 7+ years of experience in digital advertising, WordPress development, SEO, content creation, photography, and video production. Skilled in Meta and Google Ads, AI-powered content creation, and delivering projects from concept to completion.',
 
     /* ── 02 Selected Work ── */
     work_eyebrow: 'Selected Work',
