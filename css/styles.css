@@ -284,6 +284,8 @@ html[dir=rtl] .cert:hover .c-title{translate:-.5rem 0}
 .tst::before{content:"\201C";position:absolute;inset-inline-start:0;inset-block-start:-.1em;font:700 clamp(3rem,5vw,4.75rem)/1 var(--f-display);color:var(--accent);opacity:.9}
 .tst-q{font:500 clamp(1.05rem,1.7vw,1.35rem)/1.5 var(--f-display);letter-spacing:-.02em;text-wrap:pretty}
 :lang(ar) .tst-q{letter-spacing:0;line-height:1.95;font-weight:500}
+.tst-cat{display:block;margin-bottom:.85rem;font:500 .72rem/1.3 var(--f-body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+:lang(ar) .tst-cat{letter-spacing:0;text-transform:none;font-size:.88rem}
 .tst-by{display:flex;align-items:center;gap:.8rem;margin-top:1.15rem;font:500 .78rem/1 var(--f-body);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
 :lang(ar) .tst-by{letter-spacing:0;text-transform:none;font-size:.9rem}
 .tst-by::before{content:"";width:1.75rem;height:1px;background:var(--accent);flex:none}
