@@ -397,7 +397,6 @@
     /* ── 08 Testimonials ── */
     tst_eyebrow: 'Client Testimonials',
     tst_title: 'Experiences <span>Across Digital Projects</span>',
-    tst_desc: 'Illustrative examples of feedback relating to collaboration on content, websites, and digital projects.',
     tst1_label: 'Marketing & Content',
     tst1_q: 'He understands the idea behind the content, not just how it looks. Communication was clear, and he helped us turn our ideas into practical content suited to our needs.',
     tst1_role: 'Marketing Manager',
@@ -574,7 +573,6 @@
     /* ── آراء العملاء ── */
     tst_eyebrow: 'آراء العملاء',
     tst_title: 'تجارب العمل <span>في المشاريع الرقمية</span>',
-    tst_desc: 'نماذج توضيحية لصياغة آراء حول التعاون في مشاريع المحتوى والمواقع والأعمال الرقمية.',
     tst1_label: 'التسويق والمحتوى',
     tst1_q: 'يفهم الفكرة وراء المحتوى، وليس مجرد شكله. كان التواصل واضحًا، وساعدنا على تحويل أفكارنا إلى محتوى عملي يتناسب مع احتياجاتنا.',
     tst1_role: 'مدير تسويق',
