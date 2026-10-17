@@ -36,8 +36,7 @@ NEDLSALAH-Website/
 
 Homepage sections, in order: Hero → Services (01) → Selected Work (02) → About (03) →
 Process (04) → Professional Experience (05) → Skills & Toolkit (06) → Certifications
-(07) → Contact (08) → Footer. The same 01–08 numbering is used in the desktop
-<<<<<<< HEAD
+(07) → Testimonials (08) → Contact (09) → Footer. The same 01–09 numbering is used in the desktop
 navigation and the mobile menu. There is **no blog/insights section**: the four article
 pages that once existed under `articles/`, together with their images, have been removed,
 so the site is now the homepage, the two legal pages and the custom 404.
@@ -192,11 +191,6 @@ All tests were run locally against a server that mirrors the GitHub Pages `/Web/
 - **Contact address:** search-and-replace `nedlsalah@gmail.com` in `index.html` (mailto links)
   — there is no form or endpoint to configure.
 - **Colours / fonts:** CSS custom properties at the top of `css/styles.css`
-=======
-navigation and the mobile menu. There is **no blog/insights section** on the homepage; the four
-articles remain published at their stable URLs under `articles/` (still in `sitemap.xml` and
-linked from `404.html`).
->>>>>>> 32370bc9270c38d06eb2da41113bb82353f6126d
   (`:root[data-theme=dark]` — `#0d0d0f` background with cyan `#3cc1da` accent; light theme:
   `#f4f1ea` with teal `#0e7488`). The page scrollbar follows the brand accent
   (`scrollbar-color` + `::-webkit-scrollbar`, same block).

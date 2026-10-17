@@ -2,57 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nedlsalah.github.io/Web/</loc>
-<<<<<<< HEAD
-    <lastmod>2026-10-12</lastmod>
-=======
-    <lastmod>2026-10-08</lastmod>
->>>>>>> 32370bc9270c38d06eb2da41113bb82353f6126d
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://nedlsalah.github.io/Web/legal/privacy-policy.html</loc>
     <lastmod>2026-10-12</lastmod>
-=======
-    <loc>https://nedlsalah.github.io/Web/articles/digital-presence.html</loc>
-    <lastmod>2026-10-08</lastmod>
->>>>>>> 32370bc9270c38d06eb2da41113bb82353f6126d
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-<<<<<<< HEAD
-    <loc>https://nedlsalah.github.io/Web/legal/terms-of-use.html</loc>
-    <lastmod>2026-10-12</lastmod>
-=======
-    <loc>https://nedlsalah.github.io/Web/articles/wordpress-landing-pages.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://nedlsalah.github.io/Web/articles/content-systems.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://nedlsalah.github.io/Web/articles/seo-basics.html</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://nedlsalah.github.io/Web/legal/privacy-policy.html</loc>
-    <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://nedlsalah.github.io/Web/legal/terms-of-use.html</loc>
-    <lastmod>2026-10-08</lastmod>
->>>>>>> 32370bc9270c38d06eb2da41113bb82353f6126d
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

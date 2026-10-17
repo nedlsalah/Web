@@ -278,6 +278,17 @@ html[dir=rtl] .wk-card:hover .wk-title .arr{translate:-.2rem -.2rem}
 html[dir=rtl] .cert:hover .c-title{translate:-.5rem 0}
 .c-prov{color:var(--muted);font-size:.95rem;direction:ltr}
 
+/* ── Testimonials ─────────────────────────────────────── */
+.tst-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(2rem,4vw,3.5rem) clamp(2.5rem,5vw,5rem);margin-top:clamp(2.5rem,6vw,5rem)}
+.tst{position:relative;padding-inline-start:clamp(2.4rem,4vw,3.4rem)}
+.tst::before{content:"\201C";position:absolute;inset-inline-start:0;inset-block-start:-.1em;font:700 clamp(3rem,5vw,4.75rem)/1 var(--f-display);color:var(--accent);opacity:.9}
+.tst-q{font:500 clamp(1.05rem,1.7vw,1.35rem)/1.5 var(--f-display);letter-spacing:-.02em;text-wrap:pretty}
+:lang(ar) .tst-q{letter-spacing:0;line-height:1.95;font-weight:500}
+.tst-by{display:flex;align-items:center;gap:.8rem;margin-top:1.15rem;font:500 .78rem/1 var(--f-body);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+:lang(ar) .tst-by{letter-spacing:0;text-transform:none;font-size:.9rem}
+.tst-by::before{content:"";width:1.75rem;height:1px;background:var(--accent);flex:none}
+.tst-role{color:var(--text)}
+
 /* ── Contact ───────────────────────────────────────────── */
 .cta-title{font:640 clamp(3rem,11.5vw,11.5rem)/.88 var(--f-display);letter-spacing:-.06em;text-wrap:balance}
 :lang(ar) .cta-title{letter-spacing:0;line-height:1.2;font-weight:700;font-size:clamp(2.6rem,9vw,9rem)}
@@ -408,6 +419,7 @@ html:not(.fx) *,html:not(.fx) *::before,html:not(.fx) *::after{animation:none!im
   .sk-row{grid-template-columns:1fr}
   .cert{grid-template-columns:3.5rem minmax(0,1fr);}
   .c-prov{grid-column:2;text-align:start}
+  .tst-grid{grid-template-columns:1fr}
   .page-main{padding-top:calc(var(--nav-h) + 2.5rem)}
 }
 @media (max-width:640px){

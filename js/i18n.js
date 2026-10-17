@@ -271,9 +271,10 @@
    Merged over the base dictionary in js/i18n.js. */
 {
   en: {
-    /* ── Navigation (8 sections) ── */
+    /* ── Navigation (9 sections) ── */
     nav_work: 'Work',
     nav_process: 'Process',
+    nav_testimonials: 'Testimonials',
     aria_lang: 'EN / AR — switch language',
 
     /* ── Hero ── */
@@ -394,6 +395,19 @@
     cta_body: 'Tell me what you are building — I will tell you honestly how I can help.',
     legal_label: 'Legal',
 
+    /* ── 08 Testimonials ── */
+    tst_eyebrow: 'Testimonials',
+    tst_title: 'What Clients <span>Say</span>',
+    tst_desc: 'In their own words — feedback from clients across content, websites, and day-to-day digital work.',
+    tst1_q: 'He understands the idea behind the content, not just how it should look. Communication was straightforward, and he was able to turn our ideas into something we could actually use.',
+    tst1_role: 'Restaurant Manager',
+    tst2_q: 'The website process was smooth. He understood what we needed, paid attention to the details, and made sure the site worked well on mobile as well as desktop.',
+    tst2_role: 'Business Client',
+    tst3_q: 'We needed content that felt natural and suited our brand. He was flexible with the ideas, understood the style we were going for, and delivered content we could use across our social channels.',
+    tst3_role: 'Operations Manager',
+    tst4_q: 'He is easy to work with and can handle different types of tasks, from website updates to creative work. He listens to feedback and works through changes without making the process complicated.',
+    tst4_role: 'Project Coordinator',
+
     /* ── 09 Contact ── */
     contact_eyebrow: 'Contact',
     c_loc: 'Location',
@@ -434,6 +448,7 @@
     /* ── التنقل ── */
     nav_work: 'الأعمال',
     nav_process: 'منهجية العمل',
+    nav_testimonials: 'آراء العملاء',
     aria_lang: 'EN / AR — تبديل اللغة',
 
     /* ── البطل ── */
@@ -553,6 +568,19 @@
     toc_aria: 'جدول المحتويات',
     cta_body: 'أخبرني بما تبنيه — سأخبرك بصدق كيف يمكنني المساعدة.',
     legal_label: 'قانوني',
+
+    /* ── آراء العملاء ── */
+    tst_eyebrow: 'آراء العملاء',
+    tst_title: 'ماذا قال <span>العملاء</span>',
+    tst_desc: 'بكلماتهم مباشرة — ملاحظات من عملاء في المحتوى والمواقع والعمل الرقمي اليومي.',
+    tst1_q: 'يفهم الفكرة التي وراء المحتوى، لا مجرد شكله. كان التواصل مباشرًا، واستطاع تحويل أفكارنا إلى شيء يمكننا استخدامه فعلياً.',
+    tst1_role: 'مدير مطعم',
+    tst2_q: 'كانت عملية إنجاز الموقع سلسة. فهم ما نحتاجه، وانتبه إلى التفاصيل، وتأكد من أن الموقع يعمل جيداً على الجوال وكذلك على سطح المكتب.',
+    tst2_role: 'عميل من قطاع الأعمال',
+    tst3_q: 'احتجنا محتوى يبدو طبيعياً ويراعي هوية علامتنا. كان مرنًا مع الأفكار، وفهم الأسلوب الذي نريده، وسلّم محتوى يمكننا استخدامه عبر قنواتنا الاجتماعية.',
+    tst3_role: 'مدير العمليات',
+    tst4_q: 'سهل التعامل معه ويمكنه التعامل مع مختلف أنواع المهام، من تحديثات المواقع إلى العمل الإبداعي. يستمع إلى الملاحظات ويعمل على التعديلات دون تعقيد العملية.',
+    tst4_role: 'منسق مشاريع',
 
     /* ── التواصل ── */
     contact_eyebrow: 'تواصل',
